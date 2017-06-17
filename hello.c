@@ -4,6 +4,7 @@ int main () {
 
 printf("Hello, World");
 printf(" New Hello, World");
-printf(" Conflict User 1");
+printf("No conflict, everything OK! ");
+
 
 }
